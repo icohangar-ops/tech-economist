@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.Cubiczan/tech-economist",
+  "name": "io.github.icohangar-ops/tech-economist",
   "description": "AI token economics: per-call cost estimation, workflow ROI scenarios, and FinOps benchmarks for CFOs.",
   "version": "0.1.0",
   "packages": [
