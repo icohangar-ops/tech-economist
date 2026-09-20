@@ -9,7 +9,7 @@ because they require a live SQLAlchemy session; these tools are pure and
 offline.
 
 Follows the same publishing path proven by codesentinel / codehealth-mcp:
-namespace ``io.github.Cubiczan``, stdio transport, published via the
+namespace ``io.github.icohangar-ops/tech-economist``, stdio transport, published via the
 ``mcp-publisher`` CLI (see the "MCP Server" section of the README).
 
 Run it (from the ``backend`` directory so ``app`` is importable):
